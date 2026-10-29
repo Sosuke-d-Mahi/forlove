@@ -1,5 +1,5 @@
 {
-  "name": "happy-birthday-card",
+  "name": "forlove",
   "version": "3.0.2",
   "description": "A birthday card template",
   "main": "index.js",
@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnshumanMahato/Happy-Birthday-Card.git"
+    "url": "git+https://github.com/Sosuke-d-Mahi/forlove.git"
   },
   "keywords": [
     "happy-birthday",
     "birthday-card"
   ],
-  "author": "Anshuman Mahato",
+  "author": "Easir Iqbal Mahi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnshumanMahato/Happy-Birthday-Card/issues"
+    "url": "https://github.com/Sosuke-d-Mahi/forlove/issues"
   },
-  "homepage": "https://github.com/AnshumanMahato/Happy-Birthday-Card#readme",
+  "homepage": "https://github.com/Sosuke-d-Mahi/forlove#readme",
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.6.2",
     "@parcel/transformer-sass": "^2.6.2",
